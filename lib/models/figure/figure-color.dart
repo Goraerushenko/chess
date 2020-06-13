@@ -1,0 +1,4 @@
+enum FigureColor {
+  black,
+  white
+}
